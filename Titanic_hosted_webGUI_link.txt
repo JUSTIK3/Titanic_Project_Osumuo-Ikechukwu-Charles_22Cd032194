@@ -1,0 +1,6 @@
+Name: Osumuo Ikechukwu Charles
+Matric Number: 22cd032184
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method Used: Pickle
+Live URL: https://titanicprojectosumuo-ikechukwu-charles22cd032194-qhybgpentyhey.streamlit.app/
+GitHub Repository Link:https://github.com/JUSTIK3/Titanic_Project_Osumuo-Ikechukwu-Charles_22Cd032194
