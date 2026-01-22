@@ -82,3 +82,4 @@ if submit_button:
     st.markdown("### Prediction Probabilities")
     st.write(f"Probability of **Did Not Survive (0)**: `{probabilities[0]:.4f}`")
     st.write(f"Probability of **Survived (1)**: `{probabilities[1]:.4f}`")
+
